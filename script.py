@@ -5,11 +5,13 @@ class script(object):
 
 You can call this as an Auto Filter Bot if you like :D
 
-This is Version 2 of Auto Filter Bot
+This is an ultimate filter bot of master brain @shamilnelli
 
 Bot gives button link to files in connected channels on query !
 
 No need to add filters for your files or movies from now on!
+
+guyz Donate my owner @shamilnelli ... for more such bots
 
 For more click <i>help</i></b>"""
 
@@ -53,12 +55,12 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @shamilnelli | @movieworldkdy</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : AI Filter Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @shamilnelli
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
