@@ -69,7 +69,7 @@ async def about(client, message):
                     [
                         InlineKeyboardButton(
                             "bot updates", url="https://t.me/redbullfed")
-                   
+                    ]
                 ]
             ),
             reply_to_message_id=message.message_id
