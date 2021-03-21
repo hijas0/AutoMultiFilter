@@ -1,7 +1,7 @@
 {
     "name": "Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": "https://telegra.ph/file/5c882d9ad80575c0c88a8.jpg",
+    "logo": "https://telegra.ph/file/2ccd3287d3a539aca0ab8.jpg",
     "keywords": [
         "Auto",
         "Filter",
@@ -9,7 +9,7 @@
         "shamil habeeb"
     ],
     "website": "https://t.me/redbullfed",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
+    "repository": "https://github.com/shamilhabeebnelli/Automultifilter",
     "success_url": "https://telegram.dog/shamilnelli",
     "env": {
         "TG_BOT_TOKEN": {
