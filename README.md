@@ -20,7 +20,8 @@
 
 [![Redbull](https://img.shields.io/badge/Redbull-Support-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/redbullfed)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![Creator](https://img.shields.io/badge/ShamilHabeeb-red?style=flat&logo=telegram)](https://telegram.dog/shamilnelli)  [![Bot Assistant](https://img.shields.io/badge/Shamil-Bot-Assistant-red?style=flat&logo=CodersRank)](https://t.me/shamilhelpbot)  
+[![Creator](https://img.shields.io/badge/ShamilHabeeb-red?style=flat&logo=telegram)](https://telegram.dog/shamilnelli)  
+[![Bot Assistant](https://img.shields.io/badge/Shamil-BotAssistant-red?style=flat&logo=CodersRank)](https://t.me/shamilhelpbot)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 
 
