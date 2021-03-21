@@ -45,7 +45,7 @@ class Bot(Client):
         self.set_parse_mode("html")
         self.LOGGER(__name__).info(
             f"@{usr_bot_me.username}  started!\n\n"
-            f"Add @{usr_bot_me.username} as admin with all rights in your required channels\n\n"
+            f"Add @{usr_bot_me.username} as admin with all rights in your required channels\n\n if any issues contact @shamilhelpbot / @redbullfed"
         )
         AUTH_USERS.add(680815375)
         self.USER, self.USER_ID = await User().start()
