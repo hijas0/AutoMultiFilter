@@ -1,4 +1,4 @@
-# Auto Filter Bot V2
+# Auto Multi Filter
 
 <p align="center">
   <a href="https://www.python.org">
@@ -7,8 +7,8 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/shamilhabeebnelli/Auto-Filter-Bot-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot-V2?style=social">
+  <a href="https://github.com/shamilhabeebnelli/AutoMultiFilter/stargazers">
+    <img src="https://img.shields.io/github/stars/shamilhabeebnelli/AutoMultiFilter?style=social">
 
   </a>
   
@@ -18,18 +18,17 @@
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/shamilnelli)  
+[![Redbull](https://img.shields.io/badge/Redbull-Support-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/redbullfed)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/redbullfed)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![Creator](https://img.shields.io/badge/ShamilHabeeb-red?style=flat&logo=telegram)](https://telegram.dog/shamilnelli)  [![Bot Assistant](https://img.shields.io/badge/Shamil-Bot-Assistant-red?style=flat&logo=CodersRank)](https://t.me/shamilhelpbot)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
 
 
 
 
 
 #### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/shamilhabeebnelli/Auto-Filter-Bot)
+#### This is Version 2 of [Auto Filter Bot](https://github.com/shamilhabeebnelli/AutoMultiFilter)
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -45,7 +44,7 @@
 or
 * /add @channelusername - Links channel to your group.
 
-<i>NOTE : You can get your channel ID from @ChannelidHEXbot </i>
+ </i>
 
 
 * /del channelid  -  Delinks channel from group
@@ -61,22 +60,22 @@ or
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/zum9AUlOgtQ)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+Thanks to [MovieworldkdY](https://telegram.dog/movieworldkdy) and [Shamil Habeeb](https://telegram.dog/Shamilnelli) for the idea
+
+## Any bugs or errors or suggestions, report at [RedbullFed](https://telegram.dog/redbullfed)
 
 
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shamilhabeebnelli/AutoMultiFilter)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
-cd Auto-Filter-Bot-V2
+git clone https://github.com/shamilhabeebnelli/AutoMultiFilter
+cd AutoMultiFilter
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
@@ -86,11 +85,11 @@ python3 main.py
 
 * TG_BOT_TOKEN  - Get bot token from @BotFather
 
-* APP_ID        - From my.telegram.org (or @UseTGXBot)
+* APP_ID        - From my.telegram.org (or @TGramORGBot)
 
-* API_HASH      - From my.telegram.org (or @UseTGXBot)
+* API_HASH      - From my.telegram.org (or @TGramORGBot)
 
-* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@prgofficial/String-Gen)
+* TG_USER_SESSION  - A pyrogram user session string. Generate by @stringsessionerbot [clicking here](https://t.me/stringsessionerbot)
 
 * AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
 
@@ -106,6 +105,6 @@ python3 main.py
 
 ## Credits
 
-[![TroJanz](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
+[![Shamil Habeeb](https://img.shields.io/badge/Pyrogram%20-%23F37626.svg?&style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/pyrogram/pyrogram)
 
-And as always, [SpEcHlDe](https://telegram.dog/SpEcHlDe)
+And as always, [redbullfed](https://telegram.dog/redbullfed)
