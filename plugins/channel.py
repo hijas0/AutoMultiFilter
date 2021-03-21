@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @trojanzhex
+# @shamilnelli
 
 
 import re
@@ -38,7 +38,7 @@ async def addchannel(client: Bot, message: Message):
         await message.reply_text(
             "<i>Enter in correct format!\n\n<code>/add channelid</code>  or\n"
             "<code>/add @channelusername</code></i>"
-            "\n\nGet Channel id from @ChannelidHEXbot",
+            "\n\nGet Channel id from channel info add -100 before channel id",
         )
         return
     try:
@@ -68,7 +68,7 @@ async def addchannel(client: Bot, message: Message):
         invitelink = await client.export_chat_invite_link(chid)
     except:
         await message.reply_text(
-            "<i>Add me as admin in your channel with admin rights - 'Invite Users via Link' and try again</i>",
+            "<i>Add me as admin in your channel with admin rights issues contact @shamilhelpbot or @redbullfed - 'Invite Users via Link' and try again</i>",
         )
         return
 
