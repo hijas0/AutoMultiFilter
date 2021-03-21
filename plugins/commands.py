@@ -18,7 +18,7 @@ async def start(client, message):
                 [
                     [
                         InlineKeyboardButton("HELP", callback_data="help_data"),
-                        InlineKeyboardButton("ABOUT", callback_data="about_data"),
+                        InlineKeyboardButton("Bot Assistance", url="https://t.me/shamilhelpbot"),
                     ],
                     [
                         InlineKeyboardButton(
@@ -54,7 +54,7 @@ async def help(client, message):
     except:
         pass
 
-@Client.on_message(filters.command(["about"]) & filters.private)
+@Client.on_message(filters.command(["Bot Assistance"]) & filters.private)
 async def about(client, message):
     try:
         await message.reply_text(
