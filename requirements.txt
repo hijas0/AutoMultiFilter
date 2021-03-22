@@ -1,5 +1,6 @@
-Pyrogram
-TgCrypto
+Pyrogram>=1.2.0
+TgCrypto>=1.2.2
 umongo
 dnspython
+
 
