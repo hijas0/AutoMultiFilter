@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "🎬 Film Group 🎬", url="https://t.me/movieworldkdy")
+                            "🎬 Our Channel 🎬", url="https://t.me/searchitfree")
                     ]
                 ]
             ),
