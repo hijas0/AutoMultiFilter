@@ -22,7 +22,7 @@ async def start(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ CreatoR ⭕️", url="https://t.me/shamilnelli")
+                            "👑 CreatoR 👑", url="https://t.me/Elonmusk_010")
                     ]
                 ]
             ),
@@ -45,7 +45,7 @@ async def help(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "⭕️ Film Group ⭕️", url="https://t.me/movieworldkdy")
+                            "🎬 Film Group 🎬", url="https://t.me/movieworldkdy")
                     ]
                 ]
             ),
